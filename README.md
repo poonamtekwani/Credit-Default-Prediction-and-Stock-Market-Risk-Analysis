@@ -72,9 +72,3 @@ This project aims to:
 ## 🛠️ Tools & Technologies
 
 Python | Pandas | NumPy | Scikit-learn | Matplotlib | Jupyter Notebook
-
----
-
-## 👩‍💻 Author
-
-Poonam Tekwani
